@@ -59,10 +59,10 @@ class MLEngineer:
     @property
     def current_stack(self) -> dict:
         return {
-            "building"   : ["Explainable AI systems", "Production ML pipelines", "Real-time inference APIs"],
-            "exploring"  : ["Multi-modal LLMs", "MLOps & model monitoring", "Federated learning"],
-            "deploying"  : ["Healthcare AI  ·  98.2% accuracy", "Environmental forecasting", "NLP at 25K+ users"],
-            "expertise"  : ["SHAP / LIME explainability", "Ensemble methods", "Time-series forecasting"],
+            "building"  : ["Explainable AI systems", "Production ML pipelines"],
+            "exploring" : ["Multi-modal LLMs", "MLOps & model monitoring"],
+            "deploying" : ["Healthcare AI · 98.2%", "Air quality", "NLP · 25K+ users"],
+            "expertise" : ["SHAP / LIME", "Ensemble methods", "Time-series"],
         }
 
     def what_makes_me_different(self) -> str:
@@ -84,12 +84,12 @@ print(profile.what_makes_me_different())
 
 <div align="center">
 
-| System | Domain | Metric | Scale | Status |
-|--------|---------|--------|-------|--------|
-| 🏥 **Healthcare Disease Predictor** | Medical AI | **98.2% accuracy** | 10K+ users | ![Live](https://img.shields.io/badge/-LIVE-22c55e?style=flat-square) |
-| 🌍 **Air Quality Forecasting** | Environmental | **MAE: 12.3 AQI** | 1M+ daily readings | ![Live](https://img.shields.io/badge/-LIVE-22c55e?style=flat-square) |
-| 💬 **NLP Chatbot + Grammar AI** | Natural Language | **96.5% intent acc.** | **25,000+ users** | ![Live](https://img.shields.io/badge/-LIVE-22c55e?style=flat-square) |
-| 🏘️ **XAI Housing Price Predictor** | FinTech / PropTech | **R² = 0.94** | Production | ![Live](https://img.shields.io/badge/-LIVE-22c55e?style=flat-square) |
+| System | Domain | Key Metric |
+|--------|---------|------------|
+| 🏥 **Healthcare Disease Predictor** | Medical AI | **98.2% accuracy** |
+| 🌍 **Air Quality Forecasting** | Environmental | **MAE: 12.3 AQI units** |
+| 💬 **NLP Chatbot + Grammar AI** | Natural Language | **96.5% intent accuracy** |
+| 🏘️ **XAI Housing Price Predictor** | FinTech / PropTech | **R² score = 0.94** |
 
 </div>
 
@@ -163,17 +163,12 @@ print(profile.what_makes_me_different())
 │                                                                             │
 │  Ensemble ML system · Multi-class disease prediction · SHAP explainability  │
 │                                                                             │
-│  ╔══════════════╦════════════════════════════════════════════════════════╗  │
-│  ║  ACCURACY    ║  ██████████████████████████████████████████  98.2%    ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  DATASET     ║  50,000+ patient records                               ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  IMPACT      ║  Early detection for 10,000+ users                    ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  XAI LAYER   ║  Full SHAP force plots per prediction                 ║  │
-│  ╚══════════════╩════════════════════════════════════════════════════════╝  │
+│  ► Accuracy    ████████████████████████████████████████░░  98.2%           │
+│  ► Dataset     50,000+ patient records                                      │
+│  ► Impact      Early detection for 10,000+ users                           │
+│  ► XAI         Full SHAP force plots per prediction                        │
 │                                                                             │
-│  Stack: Python · XGBoost · TensorFlow · SHAP · FastAPI · PostgreSQL        │
+│  [ Python ]  [ XGBoost ]  [ TensorFlow ]  [ SHAP ]  [ FastAPI ]            │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -233,17 +228,12 @@ Patient Data Input
 │                                                                             │
 │  LSTM + Gradient Boosting ensemble · Real-time · 72-hour forecast window    │
 │                                                                             │
-│  ╔══════════════╦════════════════════════════════════════════════════════╗  │
-│  ║  MAE         ║  12.3 AQI units                                       ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  FORECAST    ║  72 hours ahead                                        ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  THROUGHPUT  ║  1M+ sensor readings/day · <5min latency              ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  PIPELINE    ║  Apache Spark · Real-time ingestion                   ║  │
-│  ╚══════════════╩════════════════════════════════════════════════════════╝  │
+│  ► MAE         12.3 AQI units                                               │
+│  ► Forecast    72 hours ahead                                               │
+│  ► Throughput  1M+ sensor readings/day  ·  <5 min latency                  │
+│  ► Pipeline    Apache Spark  ·  Kafka  ·  Real-time ingestion               │
 │                                                                             │
-│  Stack: TensorFlow · Keras LSTM · Spark · Streamlit · Redis cache           │
+│  [ TensorFlow ]  [ Keras LSTM ]  [ Spark ]  [ Streamlit ]  [ Redis ]        │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -291,17 +281,12 @@ Apache Spark Preprocessing
 │                                                                             │
 │  Explainable regression · 47 engineered features · Full SHAP breakdown      │
 │                                                                             │
-│  ╔══════════════╦════════════════════════════════════════════════════════╗  │
-│  ║  R² SCORE    ║  ████████████████████████████████████████  0.94       ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  MAPE        ║  8.7%                                                  ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  FEATURES    ║  47 engineered (location, structural, market signals)  ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  XAI         ║  SHAP force plots + waterfall charts per prediction   ║  │
-│  ╚══════════════╩════════════════════════════════════════════════════════╝  │
+│  ► R² Score    ████████████████████████████████████████░░  0.94            │
+│  ► MAPE        8.7%                                                         │
+│  ► Features    47 engineered  (location · structural · market signals)     │
+│  ► XAI         SHAP force plots + waterfall charts per prediction          │
 │                                                                             │
-│  Stack: Python · XGBoost · SHAP · Plotly · Streamlit                        │
+│  [ Python ]  [ XGBoost ]  [ SHAP ]  [ Plotly ]  [ Streamlit ]              │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -318,17 +303,12 @@ Apache Spark Preprocessing
 │                                                                             │
 │  Transformer-based · BERT fine-tuning · 25,000+ active users in production  │
 │                                                                             │
-│  ╔══════════════╦════════════════════════════════════════════════════════╗  │
-│  ║  USERS       ║  25,000+ active · Growing                             ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  LATENCY     ║  <200ms response (p99)                                ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  ACCURACY    ║  96.5% intent classification                          ║  │
-│  ╠══════════════╬════════════════════════════════════════════════════════╣  │
-│  ║  UPTIME      ║  99.7% · Docker · FastAPI · Redis                    ║  │
-│  ╚══════════════╩════════════════════════════════════════════════════════╝  │
+│  ► Users       25,000+ active  ·  growing weekly                           │
+│  ► Latency     <200ms response (p99)                                        │
+│  ► Accuracy    96.5% intent classification                                  │
+│  ► Uptime      99.7%  ·  Docker  ·  FastAPI  ·  Redis                     │
 │                                                                             │
-│  Stack: BERT · FastAPI · Redis · Docker · Custom grammar pipeline            │
+│  [ BERT ]  [ FastAPI ]  [ Redis ]  [ Docker ]  [ Custom Grammar Pipeline ]  │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
