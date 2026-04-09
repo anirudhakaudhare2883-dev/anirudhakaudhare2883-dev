@@ -60,7 +60,6 @@ class MLEngineer:
 
 # Instantiate professional profile
 profile = MLEngineer()
-
 <div align="center">
 <h2> 🚀 <code>tech_stack.config</code> </h2>
 <p><b>Languages, Frameworks & Core Systems</b></p>
