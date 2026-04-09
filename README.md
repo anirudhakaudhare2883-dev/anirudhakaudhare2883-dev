@@ -373,30 +373,7 @@ Apache Spark Preprocessing
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
-## 📈 SKILL PROFICIENCY RADAR
-
-<div align="center">
-
-```
-                         Machine Learning
-                               ●  (98%)
-                              /|\
-                             / | \
-           Deep Learning ●─────────● Explainable AI
-               (91%)    \    |    /      (97%)
-                          \   |   /
-                           \  |  /
-         NLP/LLMs ●────────────────● MLOps / Deployment
-               (88%)            (85%)
-                     \              /
-                      \            /
-            Data Eng. ●────────────● Cloud (AWS/GCP/Azure)
-                (86%)                    (80%)
-```
-
-</div>
-
+\
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
