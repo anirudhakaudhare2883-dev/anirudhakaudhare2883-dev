@@ -1,143 +1,194 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Anirudha%20Kaudhare&fontSize=52&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20&desc=Machine%20Learning%20Engineer%20%7C%20Mumbai%2C%20India&descSize=18&descAlign=50&descAlignY=62&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+systems;Explainable+AI+%E2%80%94+SHAP+%2F+LIME+%2F+Grad-CAM;Healthcare+%C2%B7+Finance+%C2%B7+Environmental+AI;MSc+Computer+Science+%40+University+of+Mumbai" />
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-anirudhakaudhare2883%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anirudhakaudhare2883@gmail.com)
-[![Location](https://img.shields.io/badge/Mumbai-India-orange?style=flat-square&logo=googlemaps&logoColor=white)]()
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)]()
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:B22222&height=200&section=header&text=Anirudha%20Kaudhare&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20%7C%20QA%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a Machine Learning Engineer currently finishing my MSc in Computer Science (ML specialisation) at the University of Mumbai. I build production-grade AI systems — not just notebooks, but full pipelines from data preprocessing through to deployed APIs. My focus lately has been on **Explainable AI**: making sure models don't just predict well, but can show *why* they made a decision, especially in high-stakes domains like healthcare and finance.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works.;End-to-end+ML+systems+from+scratch.;Testing+until+it+breaks%2C+then+fixing+it.;Mumbai+%E2%86%92+Wherever+the+work+is.)](https://git.io/typing-svg)
 
-I hold a Software Testing certification alongside my ML background, which means I approach model validation differently — I try to break my own systems before anyone else does.
-
-```python
-profile = {
-    "name":       "Anirudha Kaudhare",
-    "location":   "Mumbai, India",
-    "education":  "MSc Computer Science (ML) — University of Mumbai, 2024–2026",
-    "focus":      ["Explainable AI", "Production ML", "Healthcare AI", "Data Privacy"],
-    "tools":      ["Python", "Scikit-learn", "XGBoost", "LightGBM", "Flask", "SHAP", "LIME"],
-    "currently":  "Building transparent AI systems that humans can actually trust",
-}
-```
+</div>
 
 ---
 
-## Tech Stack
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 👋 Who I am
+
+I'm a Machine Learning Engineer based in Mumbai, currently finishing an MSc in Computer Science (ML specialisation) at the University of Mumbai. I build end-to-end AI systems — the kind that actually get deployed, not just trained.
+
+- 🔭 Currently working on **multi-modal AI and privacy-preserving ML**
+- 🧪 Certified in **Software Testing** — I break things on purpose
+- 🎮 Lifelong gamer — I notice when systems don't behave the way they should
+- 🤝 Open to collabs, freelance projects, and good conversations
+- 📬 Reach me at **anirudhakaudhare2883@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 **ML / AI**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2E86AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=00BFFF)
+![LightGBM](https://img.shields.io/badge/LightGBM-0d1117?style=for-the-badge&logo=lightgbm&logoColor=31A8FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 
-**Explainable AI**
+**Data & Backend**
 
-![SHAP](https://img.shields.io/badge/SHAP-7C3AED?style=flat-square&logo=python&logoColor=white)
-![LIME](https://img.shields.io/badge/LIME-A855F7?style=flat-square&logo=python&logoColor=white)
-![Grad--CAM](https://img.shields.io/badge/Grad--CAM-EC4899?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-**Deployment & APIs**
+**Explainability & Privacy**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-0d1117?style=for-the-badge&logo=python&logoColor=FF4B4B)
+![LIME](https://img.shields.io/badge/LIME-0d1117?style=for-the-badge&logo=python&logoColor=00C49A)
+![GradCAM](https://img.shields.io/badge/Grad--CAM-0d1117?style=for-the-badge&logo=python&logoColor=FF6B6B)
 
-**Privacy & Synthetic Data**
-
-![GANs](https://img.shields.io/badge/GANs-6D28D9?style=flat-square&logo=python&logoColor=white)
-![Differential Privacy](https://img.shields.io/badge/Differential%20Privacy-1E40AF?style=flat-square&logo=python&logoColor=white)
+</div>
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### 🏥 Multi-Modal Cancer Detection Framework
-Hybrid AI system combining CNN-based image analysis with structured clinical records. Built with SHAP + Grad-CAM so clinical teams can see *exactly* what the model is reacting to — not just a probability score.
-`Python` `CNNs` `Ensemble ML` `SHAP` `Grad-CAM`
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧬 Multi-Modal Cancer Detection
+> CNNs · Ensemble ML · SHAP · Grad-CAM
 
-### 💊 Healthcare AI Recommendation System
-Symptom-to-diagnosis engine using SVM and Random Forest. Takes patient symptoms as input, returns disease classification, medication suggestions, diet and workout guidance, and precautionary advice — all via a Flask REST API with real-time inference.
-`Python` `SVM` `Random Forest` `Flask`
+Hybrid AI fusing raw medical images with clinical records to predict cancer risk. Integrated visual heatmaps and feature attribution so clinical teams can actually understand why the model says what it says.
 
----
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/anirudhakaudhare)
 
-### 🌍 Air Quality Intelligence System
-Real-time AQI forecasting that pulls from live environmental and meteorological APIs. Automated alerting kicks in when air quality crosses hazardous thresholds. Runs XGBoost, SVM, and Random Forest in parallel, combined into an interactive dashboard.
-`Python` `XGBoost` `SVM` `Flask` `Live APIs`
+</td>
+<td width="50%" valign="top">
 
----
+### 🏥 Healthcare AI Recommendation System
+> SVM · Random Forest · Flask · REST API
+
+Symptom-to-diagnosis engine that returns a full treatment profile — disease classification, meds, diet, workout, and precautionary advice — in real time via a deployed Flask API.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/anirudhakaudhare)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏦 NPA Risk Prediction — Banking AI
-Loan default classifier using financial behavioural datasets. Catches non-performing assets early, before they escalate. Includes full explainability output to satisfy compliance and audit requirements.
-`Python` `Logistic Regression` `Random Forest` `SVM`
+> Logistic Regression · Random Forest · SVM
+
+Loan default classifier built on financial behavioural data. Catches non-performing assets before they escalate, with full explainability output for audit and compliance.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/anirudhakaudhare)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Air Quality Intelligence System
+> XGBoost · SVM · Random Forest · Live APIs
+
+Real-time AQI forecasting with live environmental data streams, automated hazard alerts, and an interactive dashboard. Monitoring air quality globally, at scale.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/anirudhakaudhare)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Diabetes Risk Prediction
+> LightGBM · SHAP · LIME · SMOTE
+
+~85% accuracy on healthcare datasets using LightGBM with SMOTE-balanced classes. SHAP and LIME layers surface exactly which risk factors are driving each prediction.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/anirudhakaudhare)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Privacy-Preserving Synthetic Data
+> GANs · VAEs · Differential Privacy
+
+Generated statistically faithful synthetic datasets using GANs and VAEs with differential privacy guarantees — enabling safe ML training without exposing any PII.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/anirudhakaudhare)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 🔒 Privacy-Preserving Synthetic Data Framework
-GAN + VAE pipeline that generates synthetic datasets with Differential Privacy guarantees — statistically faithful to the original data, but with zero re-identification risk. Lets teams share data for ML training without exposing real PII.
-`Python` `GANs` `VAEs` `Differential Privacy`
-
----
-
-### 📈 Diabetes Risk Prediction System
-LightGBM-based risk model with SMOTE for class balancing and full SHAP + LIME explainability. Built to be usable not just by data scientists, but by clinicians reviewing a patient's risk profile.
-`Python` `LightGBM` `SHAP` `LIME` `SMOTE`
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirudhakaudhare&show_icons=true&theme=dark&bg_color=0d1117&border_color=B22222&icon_color=B22222&title_color=ffffff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhakaudhare&layout=compact&theme=dark&bg_color=0d1117&border_color=B22222&title_color=ffffff&text_color=c9d1d9"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anirudhakaudhare&theme=dark&background=0d1117&border=B22222&ring=B22222&fire=FF6B6B&currStreakLabel=ffffff)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
-- 🧪 Software Testing — Bloomzen Infosolution Pvt. Ltd.
-- 🤖 AI Agent Development — Google
-- 🔐 Mastercard Cybersecurity Job Simulation — Forage
-- 🔐 Tata Cybersecurity Analyst Job Simulation — Forage
-- 🌐 Web Development — Bloomzen Infosolution Pvt. Ltd.
+<div align="center">
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🧪 Software Testing | Bloomzen Infosolution Pvt. Ltd. | 2023 |
+| 🌐 Web Development | Bloomzen Infosolution Pvt. Ltd. | 2023 |
+| 🛡️ Cybersecurity Job Simulation | Mastercard · Forage | 2024 |
+| 🛡️ Cybersecurity Analyst Simulation | Tata · Forage | 2024 |
+| 🤖 AI Agent Development | Google | 2024 |
+
+</div>
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-anirudhakaudhare2883%40gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhakaudhare2883@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudhakaudhare)
+[![Phone](https://img.shields.io/badge/WhatsApp-%2B91%209321159838-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919321159838)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Currently open to ML Engineering roles and research collaborations.*
-*Feel free to reach out — anirudhakaudhare2883@gmail.com*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B22222,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
