@@ -274,43 +274,9 @@ Apache Spark Preprocessing
 
 ---
 
-## 📊 GITHUB ANALYTICS
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anirudhakaudhare2883-dev&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&icon_color=FF2E93&border_color=7C3AED&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhakaudhare2883-dev&theme=tokyonight&background=0D1117&ring=A855F7&fire=FF2E93&currStreakLabel=94A3B8&sideLabels=A855F7&currStreakNum=FFFFFF&dates=64748B&sideNums=FFFFFF&border=7C3AED&stroke=7C3AED" width="49%" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhakaudhare2883-dev&layout=donut-vertical&theme=tokyonight&bg_color=0D1117&title_color=A855F7&text_color=94A3B8&border_color=7C3AED&langs_count=10&hide=jupyter%20notebook,html,css,shell" width="38%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhakaudhare2883-dev&bg_color=0D1117&color=A855F7&line=FF2E93&point=06B6D4&area=true&area_color=7C3AED&hide_border=false&border_color=7C3AED&custom_title=Contribution+Activity+%7C+2024-2025" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anirudhakaudhare2883-dev&theme=tokyonight&no-bg=true&no-frame=false&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultiLanguage" width="98%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🐍 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anirudhakaudhare2883-dev/anirudhakaudhare2883-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anirudhakaudhare2883-dev/anirudhakaudhare2883-dev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/anirudhakaudhare2883-dev/anirudhakaudhare2883-dev/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 🏆 ACHIEVEMENTS & CERTIFICATIONS
 
@@ -318,11 +284,11 @@ Apache Spark Preprocessing
 
 | 🎖️ Achievement | 📅 Year | 🔗 Verify |
 |----------------|---------|-----------|
-| **AWS Certified ML Specialty** | 2024 | [Badge](#) |
-| **Google Professional ML Engineer** | 2024 | [Badge](#) |
-| **Deep Learning Specialization** — deeplearning.ai | 2023 | [Cert](#) |
-| **MLOps Specialization** — deeplearning.ai | 2024 | [Cert](#) |
-| **Kaggle Expert** — Competitions | 2023 | [Profile](#) |
+| **AWS Certified ML Specialty** | 2024 |
+| **Google Professional ML Engineer** | 2024 | 
+| **Deep Learning Specialization** — deeplearning.ai | 2023 | 
+| **MLOps Specialization** — deeplearning.ai | 2024 |
+| **Kaggle Expert** — Competitions | 2023 | 
 
 </div>
 
