@@ -261,49 +261,8 @@ Statistically faithful **synthetic datasets** using GANs + VAEs with **Different
 
 ---
 
-<!-- ═══════════════════════ ANIMATED DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-<h2 align="center">📊 &nbsp; GitHub Analytics</h2>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirudhakaudhare&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&border_color=B22222&icon_color=B22222&title_color=ffffff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhakaudhare&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&border_color=B22222&title_color=ffffff&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anirudhakaudhare&theme=dark&background=0d1117&border=B22222&ring=B22222&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&stroke=0d1117)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anirudhakaudhare&bg_color=0d1117&color=B22222&line=B22222&point=ffffff&area=true&area_color=B22222&border_color=B22222&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=anirudhakaudhare&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 <!-- ═══════════════════════ ANIMATED DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
