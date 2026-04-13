@@ -282,7 +282,7 @@ Apache Spark Preprocessing
 
 <div align="center">
 
-| 🎖️ Achievement | 📅 Year | 🔗 Verify |
+| 🎖️ Achievement | 📅 Year | 
 |----------------|---------|-----------|
 | **AWS Certified ML Specialty** | 2024 |
 | **Google Professional ML Engineer** | 2024 | 
