@@ -34,51 +34,7 @@
 
 ---
 
-## 🧠 SYSTEM IDENTITY
 
-```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────────────────────────────────────
-#  ANIRUDHA KAUDHARE  |  ML Engineer  |  v2.0.26
-# ─────────────────────────────────────────────────────────────────────────────
-
-class MLEngineer:
-    """
-    Building AI that explains itself — not black boxes,
-    but transparent systems humans can trust and understand.
-    """
-    
-    def __init__(self):
-        self.name        = "Anirudha Kaudhare"
-        self.role        = "Machine Learning Engineer"
-        self.location    = "📍 Mumbai, India"
-        self.education   = "MSc Computer Science  ·  ML Specialization"
-        self.philosophy  = "Transparency isn't a feature — it's a prerequisite for trust."
-        self.status      = "🟢 Open to ML Engineering & AI Research roles"
-
-    @property
-    def current_stack(self) -> dict:
-        return {
-            "building"  : ["Explainable AI systems", "Production ML pipelines"],
-            "exploring" : ["Multi-modal LLMs", "MLOps & model monitoring"],
-            "deploying" : ["Healthcare AI · 98.2%", "Air quality", "NLP · 25K+ users"],
-            "expertise" : ["SHAP / LIME", "Ensemble methods", "Time-series"],
-        }
-
-    def what_makes_me_different(self) -> str:
-        return """
-        I don't just ship accurate models.
-        Every prediction ships with a full SHAP explanation — 
-        so stakeholders, doctors, and regulators can see WHY.
-        """
-
-profile = MLEngineer()
-print(profile.what_makes_me_different())
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 🚀 PRODUCTION SYSTEMS — LIVE & DEPLOYED
 
