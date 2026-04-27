@@ -1,61 +1,35 @@
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIRUDHA KAUDHARE — GITHUB PROFILE           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:1a0000,100:B22222&height=280&section=header&text=ANIRUDHA%20KAUDHARE&fontSize=60&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=⚡%20Machine%20Learning%20Engineer%20%7C%20AI%2FML%20Specialist%20%7C%20Full-Stack%20Developer%20⚡&descAlignY=62&descSize=17&animation=fadeIn&stroke=B22222&strokeWidth=3" width="100%"/>
+<div align="center">
+  
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=ANIRUDHA%20KAUDHARE&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Machine%20Learning%20Engineer%20|%20AI%20Systems%20Developer&descAlignY=51&descSize=16" width="100%"/>
+
+<!-- ANIMATED TYPING INTRO -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3DDCF7&center=true&vCenter=true&random=false&width=700&lines=Building+AI+that+works+in+production;From+data+pipelines+to+deployed+models;Explainable+AI+%7C+Privacy-Preserving+ML;85%25%2B+accuracy+on+healthcare+datasets;Ready+for+US%2FRemote+ML+Engineering+roles" alt="Typing SVG" /></a>
 
 <br/>
 
-![](https://img.shields.io/badge/👁️_Profile_Views-Live-B22222?style=flat-square&labelColor=0d1117)
-![](https://komarev.com/ghpvc/?username=anirudhakaudhare&color=B22222&style=flat-square&label=+)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/anirudhakaudhare?color=B22222&logo=github&style=flat-square&labelColor=0d1117&label=Followers)](https://github.com/anirudhakaudhare)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/🎯_Open_to_Work-Yes-00cc44?style=flat-square&labelColor=0d1117)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/📍_Location-Mumbai%2C_India-B22222?style=flat-square&labelColor=0d1117)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/🎓_MSc_CS-Machine_Learning-B22222?style=flat-square&labelColor=0d1117)
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=B22222&center=true&vCenter=true&width=750&height=60&lines=🤖+Building+Explainable+AI+(XAI);🚀+End-to-end+ML+—+data+to+deployment;🧪+Certified+Software+Tester+%7C+QA+Expert;🔒+Privacy-preserving+ML+Solutions;🧬+Multi-modal+Cancer+Detection+AI;🌍+Real-time+Air+Quality+Intelligence;⚡+Applying+Differential+Privacy+to+ML)](https://git.io/typing-svg)
+<!-- BADGES ROW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anirudhakaudhare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/anirudhakaudhare?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20To-Work-success?style=flat&logo=checkmarx&logoColor=white" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=flat&logo=google-maps&logoColor=white" alt="location"/>
+</p>
 
 </div>
 
 ---
 
-<img align="right" alt="AI Animation" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🧑‍💻 `whoami`
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<br/>
+### 👨‍💻 About Me
 
 ```python
-class AnirudhaKaudhare:
-    """
-    Machine Learning Engineer | AI Specialist | Full-Stack Developer
-    Based in Mumbai, Maharashtra 🇮🇳
-    """
-
-    def __init__(self):
-        self.name = "Anirudha Kaudhare"
-        self.role = "Machine Learning Engineer"
-        self.education = {
-            "Current": "MSc Computer Science, University of Mumbai (2024–2026)",
-            "Previous": "BSc Computer Science (First Class with Distinction)"
-        }
-        self.experience = "ML Intern @ CodTech IT Solutions (Supervised Learning Pipelines)"
-        self.philosophy = "Building AI that is accurate, ethical, and explainable."
-
-    def get_stack(self):
-        return {
-            "Languages": ["Python", "JavaScript", "SQL", "Java", "HTML/CSS"],
-            "ML/AI": ["Scikit-learn", "LightGBM", "XGBoost", "CNNs", "NLP"],
-            "Explainable_AI": ["SHAP", "LIME", "Grad-CAM"],
-            "Web_Systems": ["Flask", "REST APIs", "Node.js", "Express", "React"]
-        }
-
-    def current_mission(self):
-        return "🔭 Engineering Multi-modal Cancer Detection Systems"
-
-    def contact(self):
-        return "anirudhakaudhare2883@gmail.com"
