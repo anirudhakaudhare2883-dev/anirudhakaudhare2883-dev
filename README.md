@@ -283,34 +283,7 @@ Statistically faithful **synthetic datasets** using GANs + VAEs with **Different
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirudhakaudhare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhakaudhare&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhakaudhare&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-<br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhakaudhare&bg_color=0d1117&color=3ddcf7&line=3ddcf7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-
-<br/>
-
-<!-- TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=anirudhakaudhare&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          EXPERIENCE                              -->
