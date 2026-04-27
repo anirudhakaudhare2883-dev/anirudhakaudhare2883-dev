@@ -32,10 +32,8 @@
 
 ### 👨‍💻 About Me
 ```python
-def current_focus(self):
-    return [
-        "🔬 Multi-modal AI for healthcare",
-        "🔍 Explainable AI (XAI) systems",
-        "🔒 Privacy-preserving ML with GANs/VAEs",
-        "🚀 Production-grade ML deployments"
-    ]
+
+🔬 Multi-modal AI for healthcare
+🔍 Explainable AI (XAI) systems
+🔒 Privacy-preserving ML with GANs/VAEs
+🚀 Production-grade ML deployments
