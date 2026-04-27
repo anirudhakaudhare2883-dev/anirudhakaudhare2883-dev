@@ -140,14 +140,6 @@ me.say_hi()
 
 
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anirudhakaudhare2883-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
-</div>
-
-<br/>
 
 ---
 
