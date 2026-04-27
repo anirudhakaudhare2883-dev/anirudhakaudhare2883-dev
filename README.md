@@ -138,35 +138,7 @@ me.say_hi()
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirudhakaudhare2883-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c6af7&text_color=c9d1d9&border_radius=10"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhakaudhare2883-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anirudhakaudhare2883-dev&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=7c6af7&currStreakLabel=00d4ff&border_radius=10" alt="GitHub Streak Stats"/>
-</div>
-
-<br/>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhakaudhare2883-dev&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7c6af7&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
----
 
 <!-- TROPHIES -->
 ## 🏆 GitHub Trophies
