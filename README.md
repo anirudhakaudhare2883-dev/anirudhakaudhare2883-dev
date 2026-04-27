@@ -33,41 +33,67 @@
 ### 👨‍💻 About Me
 
 ```python
-class MLEngineer:
+from typing import List, Dict, Union
+from dataclasses import dataclass
+from enum import Enum
+
+class WorkMode(Enum):
+    REMOTE = "🌍"
+    HYBRID = "🏢"
+    RELOCATION = "📦"
+
+@dataclass
+class Education:
+    degree: str
+    specialization: str
+    institution: str
+    status: str
+
+class AnirudhaKaudhare:
+    """
+    ML Engineer | XAI Specialist | Full-Stack Architect
+    Bridging the gap between black-box models and human-centric intelligence. [cite: 1, 2]
+    """
+    
     def __init__(self):
-        self.name = "Anirudha Kaudhare"
-        self.role = "Machine Learning Engineer"
-        self.location = "Mumbai, India 🇮🇳"
-        self.education = {
-            "current": "MSc Computer Science (ML) @ Univ. of Mumbai",
-            "graduation": "2024-2026",
-            "previous": "BSc CS - First Class with Distinction"
+        self.identity = {
+            "name": "Anirudha Kaudhare",
+            "alias": "ML-Architect",
+            "location": "Mumbai, MH, IN" [cite: 3, 4]
         }
-        self.work_mode = ["Remote", "Hybrid", "Relocation"]
         
-    def current_focus(self):
-        return [
-            "🔬 Multi-modal AI for healthcare",
-            "🔍 Explainable AI (XAI) systems",
-            "🔒 Privacy-preserving ML with GANs/VAEs",
-            "🚀 Production-grade ML deployments"
-        ]
-    
-    def skills(self):
+        self.academic_track = Education(
+            degree="MSc Computer Science",
+            specialization="Machine Learning",
+            institution="University of Mumbai",
+            status="2024–2026 (Candidate)" [cite: 4]
+        )
+        
+        self.prev_credentials = "BSc CS - First Class with Distinction" [cite: 4]
+        self.availability = [WorkMode.REMOTE, WorkMode.HYBRID, WorkMode.RELOCATION]
+
+    @property
+    def core_engine(self) -> Dict[str, List[str]]:
         return {
-            "languages": ["Python", "JavaScript", "SQL", "Java"],
-            "ml_frameworks": ["Scikit-learn", "XGBoost", "LightGBM", 
-                             "TensorFlow", "PyTorch"],
-            "specialization": ["CNNs", "NLP", "Computer Vision", 
-                              "Ensemble Methods"],
-            "xai": ["SHAP", "LIME", "Grad-CAM"],
-            "deployment": ["Flask", "REST APIs", "Docker"],
-            "databases": ["MongoDB", "MySQL", "PostgreSQL", "Firebase"]
+            "neural_architectures": ["CNNs", "GANs", "VAEs", "Transformers"],
+            "explainability_suite": ["SHAP", "LIME", "Grad-CAM"], [cite: 4]
+            "ops_pipeline": ["Flask", "REST APIs", "Docker", "Postman"], [cite: 4]
+            "data_engineering": ["MongoDB", "PostgreSQL", "Firebase", "SQL"] [cite: 4]
         }
-    
-    def fun_fact(self):
-        return "🎮 I spot game bugs before professional QA testers do!"
-```
+
+    def current_optimization(self) -> List[str]:
+        return [
+            "🔬 Developing Multi-modal Cancer Detection Frameworks", [cite: 4]
+            "🔍 Engineering interpretable AI for healthcare auditability",
+            "🔒 Implementing Differential Privacy in synthetic data generation" [cite: 4]
+        ]
+
+    def fun_fact(self) -> str:
+        # Verified Bug Hunter in gaming environments 
+        return "🎮 Spotting logic bugs in AAA games before the Day-1 patch."
+
+# Initializing Professional Profile
+anirudha = AnirudhaKaudhare()
 
 <br clear="right"/>
 
