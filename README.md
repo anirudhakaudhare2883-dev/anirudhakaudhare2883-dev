@@ -31,5 +31,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 👨‍💻 About Me
-
 ```python
+def current_focus(self):
+    return [
+        "🔬 Multi-modal AI for healthcare",
+        "🔍 Explainable AI (XAI) systems",
+        "🔒 Privacy-preserving ML with GANs/VAEs",
+        "🚀 Production-grade ML deployments"
+    ]
