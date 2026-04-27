@@ -31,67 +31,44 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 👨‍💻 About Me
-```python
-class AnirudhaKaudhare:
-    """
-    Machine Learning Engineer | AI/ML Specialist | Full-Stack Developer
-    Bridging the gap between AI performance and model interpretability.
-    """
 
+```python
+class MLEngineer:
     def __init__(self):
-        # Professional Identity [cite: 1, 2]
         self.name = "Anirudha Kaudhare"
         self.role = "Machine Learning Engineer"
-        self.location = "Mumbai, Maharashtra, India" [cite: 3]
-        
-        # Academic Journey (University of Mumbai) 
+        self.location = "Mumbai, India 🇮🇳"
         self.education = {
-            "MSc_CS": "Guru Nanak Khalsa College (ML Focus) | 2024–2026",
-            "BSc_CS": "University of Mumbai (First Class with Distinction) | 2021–2024"
+            "current": "MSc Computer Science (ML) @ Univ. of Mumbai",
+            "graduation": "2024-2026",
+            "previous": "BSc CS - First Class with Distinction"
         }
-
-        # Industry Experience [cite: 4, 6]
-        self.experience = {
-            "Current": "ML Intern @ CodTech IT Solutions",
-            "Core_Focus": "End-to-end Supervised Learning Pipelines & Model Benchmarking"
-        }
-
-    def tech_stack(self):
-        # Mastery in Data Science and Full-Stack Development 
+        self.work_mode = ["Remote", "Hybrid", "Relocation"]
+        
+    def current_focus(self):
+        return [
+            "🔬 Multi-modal AI for healthcare",
+            "🔍 Explainable AI (XAI) systems",
+            "🔒 Privacy-preserving ML with GANs/VAEs",
+            "🚀 Production-grade ML deployments"
+        ]
+    
+    def skills(self):
         return {
-            "languages": ["Python 🐍", "JavaScript", "SQL", "Java", "HTML/CSS"],
-            "ml_ai_libraries": ["Scikit-learn", "LightGBM", "XGBoost", "CNNs", "NLP"],
-            "explainable_ai": ["SHAP", "LIME", "Grad-CAM"],
-            "backend_frameworks": ["Flask", "REST APIs", "Node.js", "Express.js"],
-            "frontend": ["React.js", "Responsive UI Design"],
-            "databases": ["MongoDB", "MySQL", "Firebase"]
+            "languages": ["Python", "JavaScript", "SQL", "Java"],
+            "ml_frameworks": ["Scikit-learn", "XGBoost", "LightGBM", 
+                             "TensorFlow", "PyTorch"],
+            "specialization": ["CNNs", "NLP", "Computer Vision", 
+                              "Ensemble Methods"],
+            "xai": ["SHAP", "LIME", "Grad-CAM"],
+            "deployment": ["Flask", "REST APIs", "Docker"],
+            "databases": ["MongoDB", "MySQL", "PostgreSQL", "Firebase"]
         }
+    
+    def fun_fact(self):
+        return "🎮 I spot game bugs before professional QA testers do!"
+```
 
-    def featured_projects(self):
-        # Key AI Systems Engineered 
-        return [
-            "Multi-Modal Cancer Detection (CNN + EHR Fusion with Grad-CAM)",
-            "Healthcare AI System (Symptom-to-Diagnosis REST API)",
-            "NPA Risk Prediction (SHAP-enabled Banking Audit Compliance)",
-            "Diabetes Risk Predictor (85% Accuracy via LightGBM & SMOTE)",
-            "Air Quality Intelligence (Real-time AQI Forecasting & Alerting)"
-        ]
-
-    def certifications(self):
-        # Verified Industry Credentials [cite: 7, 9, 10, 11, 13]
-        return [
-            "AI Agent Development (Google)",
-            "Cybersecurity Analyst (Tata & Mastercard)",
-            "Software Testing (Bloomzen Infosolution)",
-            "Frontend Web Development (Bloomzen Infosolution)"
-        ]
-
-    def mission_statement(self):
-        # Core Professional Drive
-        return "🔭 Building Explainable AI that clinical and financial teams can trust."
-
-# Initialize Identity
-me = AnirudhaKaudhare()
 <br clear="right"/>
 
 **🎯 What I Bring to the Table:**
@@ -302,7 +279,34 @@ Statistically faithful **synthetic datasets** using GANs + VAEs with **Different
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirudhakaudhare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhakaudhare&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhakaudhare&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhakaudhare&bg_color=0d1117&color=3ddcf7&line=3ddcf7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+
+<br/>
+
+<!-- TROPHY -->
+<img src="https://github-profile-trophy.vercel.app/?username=anirudhakaudhare&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          EXPERIENCE                              -->
