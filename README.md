@@ -43,34 +43,38 @@
 
 ```python
 class AnirudhaKaudhare:
+    """
+    Machine Learning Engineer | AI Systems Developer | Full-Stack Enthusiast
+    Based in Mumbai, India 🇮🇳
+    """
 
-    name        = "Anirudha Kaudhare"
-    location    = "Mumbai, India 🇮🇳"
-    education   = "MSc CS — Machine Learning"
-                   # University of Mumbai, 2024–2026
-    role        = "Machine Learning Engineer"
-    experience  = "6+ end-to-end AI systems deployed"
+    def __init__(self):
+        self.name = "Anirudha Kaudhare"
+        self.education = "MSc Computer Science (Machine Learning), University of Mumbai (2024–2026)"
+        self.role = "Machine Learning Engineer"
+        self.experience = "6+ end-to-end AI/ML systems built"
 
-    languages   = ["Python 🐍", "JavaScript", "SQL"]
+        self.languages = ["Python 🐍", "JavaScript", "SQL"]
 
-    ml_stack    = ["Scikit-learn", "XGBoost", "LightGBM",
-                   "TensorFlow", "PyTorch", "CNNs", "GANs",
-                   "VAEs", "NLP", "Computer Vision"]
+        self.ml_stack = [
+            "Scikit-learn", "XGBoost", "LightGBM",
+            "TensorFlow", "PyTorch",
+            "CNNs", "NLP", "Computer Vision"
+        ]
 
-    xai         = ["SHAP", "LIME", "Grad-CAM"]
-    privacy     = ["Differential Privacy", "Synthetic Data"]
-    testing     = ["Functional", "Regression", "Bug Reporting"]
+        self.xai = ["SHAP", "LIME", "Grad-CAM"]
+        self.backend = ["Flask", "REST APIs"]
+        self.frontend = ["HTML", "CSS", "JavaScript"]
 
-    currently   = "🔭 Multi-modal Cancer Detection AI"
-    fun_fact    = "I notice when games are buggy before reviewers do 🎮"
+        self.currently = "🔭 Building Multi-modal Cancer Detection System"
+        self.fun_fact = "🎮 I detect bugs in games before reviewers do"
 
     def contact(self):
         return {
-            "email"  : "anirudhakaudhare2883@gmail.com",
-            "phone"  : "+91 9321159838",
-            "open_to": ["Full-time", "Freelance", "Collabs"]
+            "email": "anirudhakaudhare2883@gmail.com",
+            "phone": "+91 9321159838",
+            "open_to": ["Full-time", "Freelance", "Collaboration"]
         }
-```
 
 <br clear="right"/>
 
