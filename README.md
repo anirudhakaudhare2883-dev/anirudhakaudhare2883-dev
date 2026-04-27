@@ -32,47 +32,66 @@
 
 ### 👨‍💻 About Me
 ```python
-🔬 Multi-modal AI for healthcare
-🔍 Explainable AI (XAI) systems
-🔒 Privacy-preserving ML with GANs/VAEs
-🚀 Production-grade ML deployments
+class AnirudhaKaudhare:
+    """
+    Machine Learning Engineer | AI/ML Specialist | Full-Stack Developer
+    Bridging the gap between AI performance and model interpretability.
+    """
 
-class MLEngineer:
     def __init__(self):
+        # Professional Identity [cite: 1, 2]
         self.name = "Anirudha Kaudhare"
         self.role = "Machine Learning Engineer"
-        self.location = "Mumbai, India 🇮🇳"
-        self.education = {
-            "current": "MSc Computer Science (ML) @ Univ. of Mumbai",
-            "graduation": "2024-2026",
-            "previous": "BSc CS - First Class with Distinction"
-        }
-        self.work_mode = ["Remote", "Hybrid", "Relocation"]
+        self.location = "Mumbai, Maharashtra, India" [cite: 3]
         
-    def current_focus(self):
-        return [
-            "🔬 Multi-modal AI for healthcare",
-            "🔍 Explainable AI (XAI) systems",
-            "🔒 Privacy-preserving ML with GANs/VAEs",
-            "🚀 Production-grade ML deployments"
-        ]
-    
-    def skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "SQL", "Java"],
-            "ml_frameworks": ["Scikit-learn", "XGBoost", "LightGBM", 
-                             "TensorFlow", "PyTorch"],
-            "specialization": ["CNNs", "NLP", "Computer Vision", 
-                              "Ensemble Methods"],
-            "xai": ["SHAP", "LIME", "Grad-CAM"],
-            "deployment": ["Flask", "REST APIs", "Docker"],
-            "databases": ["MongoDB", "MySQL", "PostgreSQL", "Firebase"]
+        # Academic Journey (University of Mumbai) 
+        self.education = {
+            "MSc_CS": "Guru Nanak Khalsa College (ML Focus) | 2024–2026",
+            "BSc_CS": "University of Mumbai (First Class with Distinction) | 2021–2024"
         }
-    
-    def fun_fact(self):
-        return "🎮 I spot game bugs before professional QA testers do!"
-```
 
+        # Industry Experience [cite: 4, 6]
+        self.experience = {
+            "Current": "ML Intern @ CodTech IT Solutions",
+            "Core_Focus": "End-to-end Supervised Learning Pipelines & Model Benchmarking"
+        }
+
+    def tech_stack(self):
+        # Mastery in Data Science and Full-Stack Development 
+        return {
+            "languages": ["Python 🐍", "JavaScript", "SQL", "Java", "HTML/CSS"],
+            "ml_ai_libraries": ["Scikit-learn", "LightGBM", "XGBoost", "CNNs", "NLP"],
+            "explainable_ai": ["SHAP", "LIME", "Grad-CAM"],
+            "backend_frameworks": ["Flask", "REST APIs", "Node.js", "Express.js"],
+            "frontend": ["React.js", "Responsive UI Design"],
+            "databases": ["MongoDB", "MySQL", "Firebase"]
+        }
+
+    def featured_projects(self):
+        # Key AI Systems Engineered 
+        return [
+            "Multi-Modal Cancer Detection (CNN + EHR Fusion with Grad-CAM)",
+            "Healthcare AI System (Symptom-to-Diagnosis REST API)",
+            "NPA Risk Prediction (SHAP-enabled Banking Audit Compliance)",
+            "Diabetes Risk Predictor (85% Accuracy via LightGBM & SMOTE)",
+            "Air Quality Intelligence (Real-time AQI Forecasting & Alerting)"
+        ]
+
+    def certifications(self):
+        # Verified Industry Credentials [cite: 7, 9, 10, 11, 13]
+        return [
+            "AI Agent Development (Google)",
+            "Cybersecurity Analyst (Tata & Mastercard)",
+            "Software Testing (Bloomzen Infosolution)",
+            "Frontend Web Development (Bloomzen Infosolution)"
+        ]
+
+    def mission_statement(self):
+        # Core Professional Drive
+        return "🔭 Building Explainable AI that clinical and financial teams can trust."
+
+# Initialize Identity
+me = AnirudhaKaudhare()
 <br clear="right"/>
 
 **🎯 What I Bring to the Table:**
