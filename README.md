@@ -27,48 +27,71 @@
 
 ---
 
-<!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
+<!-- ABOUT ME SECTION -->
+<h1 align="center">Hi 👋, I'm Anirudha Kaudhare</h1>
 
-```python
-class AnirudhaKaudhare:
-    def __init__(self):
-        self.name        = "Anirudha Kaudhare"
-        self.role        = "Machine Learning Engineer & AI Specialist"
-        self.location    = "Mumbai, Maharashtra, India 🇮🇳"
-        self.education   = "MSc Computer Science @ University of Mumbai (2024–2026)"
-        self.contact     = "anirudhakaudhare2883@gmail.com"
-        self.phone       = "+91 9321159838"
+<h3 align="center">
+🚀 Machine Learning Engineer | AI Specialist | Full-Stack AI Developer
+</h3>
 
-    @property
-    def skills(self):
-        return {
-            "ML / AI"        : ["Scikit-learn", "LightGBM", "XGBoost", "CNNs", "NLP", "Computer Vision"],
-            "Explainable AI" : ["SHAP", "LIME", "Grad-CAM", "Differential Privacy"],
-            "Backend"        : ["Flask", "REST APIs", "Node.js", "Express.js"],
-            "Frontend"       : ["React.js", "HTML5", "CSS3", "JavaScript ES6+"],
-            "Databases"      : ["MongoDB", "MySQL", "Firebase"],
-            "Languages"      : ["Python", "JavaScript", "SQL", "Java", "HTML"],
-            "Tools"          : ["Git", "Postman", "VS Code", "Pandas", "NumPy"],
-        }
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;AI+Specialist;Full-Stack+AI+Developer;Building+AI-powered+Web+Applications;Passionate+about+Healthcare+AI+%26+XAI" alt="Typing SVG" />
+</p>
 
-    @property
-    def current_focus(self):
-        return [
-            "🔬 Multimodal AI for Healthcare",
-            "📊 Explainable AI (XAI) Research",
-            "🚀 Deploying production-grade ML APIs",
-            "🌐 Full-stack AI-powered web applications",
-        ]
+---
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🤝")
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-me = AnirudhaKaudhare()
-me.say_hi()
-```
+## 👨‍💻 About Me
 
-<br/>
+- 🎓 Pursuing **MSc Computer Science** @ University of Mumbai *(2024–2026)*
+- 🌍 Based in **Mumbai, Maharashtra, India 🇮🇳**
+- 🤖 Passionate about **Machine Learning, AI, and Full-Stack Development**
+- 🧠 Exploring **Explainable AI (XAI), NLP, Computer Vision & Healthcare AI**
+- 🚀 Building **production-grade AI APIs & intelligent web applications**
+- 💡 Love transforming ideas into real-world AI solutions
+- 📈 Continuously learning modern AI technologies and scalable systems
+
+<br>
+
+---
+
+## 🚀 Tech Stack
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+```yaml
+🔬 Multimodal AI for Healthcare
+📊 Explainable AI (XAI) Research
+🚀 Deploying Production-grade ML APIs
+🌐 Full-stack AI-powered Applications
 
 ---
 
