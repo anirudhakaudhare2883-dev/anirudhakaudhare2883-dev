@@ -134,24 +134,7 @@ Current Projects:
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudhakaudhare2883-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c6af7&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhakaudhare2883-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhakaudhare2883-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c6af7&currStreakLabel=00d4ff" alt="GitHub Streak Stats" width="700"/>
-
-</div>
-
-<br/>
+>
 
 ---
 
