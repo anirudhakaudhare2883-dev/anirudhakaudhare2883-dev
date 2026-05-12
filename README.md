@@ -238,46 +238,7 @@ Current Projects:
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
 
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhakaudhare2883-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=7c6af7&point=00d4ff" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/anirudhakaudhare2883-dev/anirudhakaudhare2883-dev/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anirudhakaudhare2883-dev/anirudhakaudhare2883-dev/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anirudhakaudhare2883-dev/anirudhakaudhare2883-dev/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-<br/>
-
----
-
-<!-- TROPHY -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=anirudhakaudhare2883-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
----
 
 <!-- CONNECT -->
 ## 🤝 Let's Connect
